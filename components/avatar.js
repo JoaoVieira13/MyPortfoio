@@ -1,7 +1,7 @@
 import React from 'react';
 import { AiFillInstagram, AiFillLinkedin, AiFillGithub } from 'react-icons/ai';
 
-function avatar() {
+export function Avatar() {
     return (
         <div className='mt-32 ml-60 flex'>
             <img src="./Joao.jpeg" alt="sou lindo" width={400} height={400} className='rounded-full' />
@@ -26,5 +26,3 @@ function avatar() {
         </div>
     );
 }
-
-export default avatar;

@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Cv() {
+export function Cv() {
     return (
         <>
             <div className='bg-slate-200 pt-1 pb-4'>
@@ -55,5 +55,3 @@ function Cv() {
         </>
     );
 }
-
-export default Cv;
