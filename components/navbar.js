@@ -5,7 +5,7 @@ export function Navbar() {
     return (
         <nav className="bg-white border-gray-200 px-3 sm:px-4 py-3.5 dark:bg-gray-800">
             <div className="container flex flex-wrap justify-between items-center mx-auto">
-                <a href="/" class="flex">
+                <a href="/" className="flex">
                     <img src="/dev.png" width={35} className='mr-3 rounded-xl' />
                     <span className="self-center text-lg font-semibold whitespace-nowrap dark:text-white">MyPortfolio</span>
                 </a>
