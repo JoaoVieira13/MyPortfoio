@@ -15,7 +15,7 @@ export function Avatar() {
                     interested to learn  <br /> new technologies and create interactive applications<br />
                     and experiencies on the web.</span></p>
                 <div className='flex mt-12'>
-                    <button className='bg-purple-900 h-9 w-28 rounded-xl text-white'>Resume</button>
+                    <button className='bg-purple-900 h-9 w-28 rounded-xl text-white hover:bg-purple-600'>Resume</button>
                     <div className='flex ml-14'>
                         <a href='https://www.instagram.com/joaopintovieira13/'><AiFillInstagram className='w-8 h-8 ml-3' /></a>
                         <a href='https://www.linkedin.com/in/jo%C3%A3o-vieira-833579215/'><AiFillLinkedin className='w-8 h-8 ml-3' /></a>

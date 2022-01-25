@@ -1,10 +1,10 @@
 import React from 'react';
 import { Navbar } from "../components/navbar"
 
-function about() {
+function About() {
     return (
         <Navbar />
     );
 }
 
-export default about;
+export default About;
